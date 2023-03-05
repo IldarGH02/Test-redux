@@ -1,0 +1,15 @@
+.header {
+    background-color: #333D51;
+    padding: 15px 0;
+    margin-bottom: 30px;
+}
+
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.header h1 {
+    color: #f1f1f1;
+}

@@ -1,0 +1,14 @@
+.posts-list {
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.post-content {
+    padding: 15px;
+}
+
+.post-item {
+    border: none;
+    outline: 1px solid #333D51;
+    margin-bottom: 20px;
+}
